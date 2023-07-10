@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menus-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menus-item{
+    margin-right: 35px;
+    list-style: none;
+    
+}
+.menus-item a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+header{
+    background-color: rgba(229, 84, 115, 0.10);;
+}
+.banner-main{
+    display: flex;
+    justify-content: space-around;
+}
+.banner-text{
+    padding: 150px 0px 50px 0px;
+
+}
+.btn-primary{
+    background-color: #E55473;
+    border-radius: 15px;
+    padding: 10px 23px;
+    border: none;
+}
+/* header style end */
