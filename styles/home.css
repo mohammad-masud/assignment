@@ -73,7 +73,8 @@ header{
 .flower-tree-link{
     display: flex;
     justify-content: space-around;
-    align-items: baseline;
+    align-items: center;
+    margin-left: 50px;
 }
 .hot-deals-section{
     display: flex;
