@@ -70,7 +70,11 @@ header{
     background-color: rgba(71, 125, 17, 0.15);;
     border-radius: 300px 300px 0px 0px;
 }
-
+.flower-tree-link{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
 .hot-deals-section{
     display: flex;
     justify-content: space-around;
