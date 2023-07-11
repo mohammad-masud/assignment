@@ -72,9 +72,9 @@ header{
 }
 .flower-tree-link{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    margin-left: 50px;
+    padding-right: 25px;
 }
 .hot-deals-section{
     display: flex;
