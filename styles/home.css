@@ -37,3 +37,95 @@ header{
     border: none;
 }
 /* header style end */
+.Featured-text{
+    text-align: center;
+}
+.featured-images{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    /* width: 750px; */
+    /* margin-right: 40px; */
+    
+}
+.featured-images-item-6{
+    /* width: 150px;
+    height: 100px; */
+    /* text-align: center; */
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+.featured-images-item-5{
+    /* width: 150px;
+    height: 100px; */
+    /* text-align: center; */
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 500px 500px 0px 0px;
+}
+.featured-images-item-7{
+    /* width: 150px;
+    height: 100px; */
+    /* text-align: center; */
+    background-color: rgba(71, 125, 17, 0.15);;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.hot-deals-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+.hot-deals-text{
+    margin-top: 150px;
+}
+.hot-deals-text span{
+    color: #E55473;
+}
+/* hot deals style end */
+.instagram-header{
+    text-align: center;
+}
+.instagram-images{
+    display: flex;
+    justify-content: space-around;
+}
+.subscribe-section{
+    text-align: center;
+    background-image: url("../images/Rectangle\ 9.png");
+    background-size: cover;
+    height: 400px;
+}
+.subscribe-text{
+    text-align: center;
+    padding-top: 180px;
+    
+}
+
+.input-btn{
+    justify-content: space-around;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.input{
+    padding: 10px 70px 10px 70px;
+    border: none;
+}
+.btn-secondary{
+    background-color: #E55473;
+    border: none;
+    padding: 10px 25px 10px 25px;
+}
+.footer-text{
+    background-color: #4d4444;
+    color: rgb(243, 232, 232);
+    text-align: center;
+    height: 250px;
+}
+.footer-text span{
+    color: #E55473;
+}
+
+
+
