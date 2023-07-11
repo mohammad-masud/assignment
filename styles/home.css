@@ -96,6 +96,7 @@ header{
     background-image: url("../images/Rectangle\ 9.png");
     background-size: cover;
     height: 400px;
+    margin-top: 25px;
 }
 .subscribe-text{
     text-align: center;
